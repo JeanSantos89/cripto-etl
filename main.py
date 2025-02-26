@@ -3,6 +3,7 @@ import requests
 import mysql.connector
 from datetime import datetime
 
+
 # Extração - Buscar dados da API CoinGecko
 url = "https://api.coingecko.com/api/v3/coins/markets"
 params = {
@@ -35,10 +36,10 @@ cripto_df["ultima_atualizacao"] = datetime.now()  # Adiciona a data e hora da at
 
 try:
     conn = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="",
-        database="cripto_info"
+        host="x",
+        user="x",
+        password="x",
+        database="x"
     )
     cursor = conn.cursor() #Aciona a conexão e cria um cursor
     
