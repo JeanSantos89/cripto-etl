@@ -1,0 +1,23 @@
+2025-02-27 21:19:37,742 - INFO - Inicializando coleta de CRIPTO DATA
+2025-02-27 21:19:37,875 - INFO - Coleta de CRIPTO BEM-sucedida.
+2025-02-27 21:19:37,923 - INFO - Dados inseridos com sucesso.
+2025-02-27 21:19:37,923 - INFO - Conexão ao banco de dados finalizada.
+2025-02-27 21:19:45,922 - INFO - Inicializando coleta de CRIPTO DATA
+2025-02-27 21:19:46,062 - INFO - Coleta de CRIPTO BEM-sucedida.
+2025-02-27 21:19:46,110 - INFO - Dados inseridos com sucesso.
+2025-02-27 21:19:46,110 - INFO - Conexão ao banco de dados finalizada.
+2025-02-27 21:20:29,801 - INFO - Inicializando coleta de CRIPTO DATA
+2025-02-27 21:20:30,104 - INFO - Coleta de CRIPTO BEM-sucedida.
+2025-02-27 21:20:30,163 - INFO - Dados inseridos com sucesso.
+2025-02-27 21:20:30,163 - INFO - Conexão ao banco de dados finalizada.
+2025-02-27 21:20:30,163 - INFO - -------------------------------------
+2025-02-27 21:20:35,757 - INFO - Inicializando coleta de CRIPTO DATA
+2025-02-27 21:20:35,876 - INFO - Coleta de CRIPTO BEM-sucedida.
+2025-02-27 21:20:35,926 - INFO - Dados inseridos com sucesso.
+2025-02-27 21:20:35,926 - INFO - Conexão ao banco de dados finalizada.
+2025-02-27 21:20:35,926 - INFO - -------------------------------------
+2025-02-27 21:31:21,620 - INFO - Inicializando coleta de CRIPTO DATA
+2025-02-27 21:31:22,698 - INFO - Coleta de CRIPTO BEM-sucedida.
+2025-02-27 21:31:22,834 - INFO - Dados inseridos com sucesso.
+2025-02-27 21:31:22,834 - INFO - Conexão ao banco de dados finalizada.
+2025-02-27 21:31:22,834 - INFO - -------------------------------------
