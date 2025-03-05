@@ -21,3 +21,5 @@
 2025-02-27 21:31:22,834 - INFO - Dados inseridos com sucesso.
 2025-02-27 21:31:22,834 - INFO - Conexão ao banco de dados finalizada.
 2025-02-27 21:31:22,834 - INFO - -------------------------------------
+2025-03-05 20:52:47,523 - INFO - Inicializando coleta de CRIPTO DATA
+2025-03-05 20:52:48,291 - INFO - Coleta de CRIPTO BEM-sucedida.
